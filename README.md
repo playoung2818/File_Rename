@@ -2,7 +2,7 @@
 
 If you need to scan and achieve lots of files everyday like me, this script is going to be helpful.
 
-It reads an Excel report, extracts useful columns, and renames files in a folder accordingly — based on **last modified time**.
+It reads an Excel report, extracts useful columns, and renames files in a folder accordingly — based on **last modified time**. (Scan your file orderly!)
 
 ---
 
