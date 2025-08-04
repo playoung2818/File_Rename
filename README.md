@@ -1,5 +1,15 @@
-Lookup & Rename Files by SO Report
-This script reads an Excel report then extract useful columns, and renames files in a folder accordingly — based on the modified time order.
+# 🔍 Lookup & Rename Files by SO Report
 
-Example:
-Renamed: 1_574.pdf → O2507-100_DS-20250802_Boston Scientific.pdf
+If you need to scan and achieve lots of files everyday like me, this script is going to be helpful.
+
+It reads an Excel report, extracts useful columns, and renames files in a folder accordingly — based on **last modified time**.
+
+---
+
+### Example
+
+```
+Renamed: 1_574.pdf → O2507-100_DS-20250802_BostonScientific.pdf
+```
+
+
